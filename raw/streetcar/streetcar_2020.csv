@@ -1,0 +1,803 @@
+Report Date,Route,Time,Day,Location,Incident,Delay,Gap,Direction,Vehicle
+2020-01-01,504,01:23:00,Wednesday,King and Dufferin,Mechanical,8,16,E/B,4446.0
+2020-01-01,512,04:40:00,Wednesday,Queen/Parliament,Mechanical,23,46,W/B,4541.0
+2020-01-01,504,06:17:00,Wednesday,Roncesvalles and Queen,Mechanical,6,14,W/B,4576.0
+2020-01-01,504,07:50:00,Wednesday,King/Church,Mechanical,10,20,W/B,4486.0
+2020-01-01,504,08:09:00,Wednesday,Queeen/ Roncesvalles,Mechanical,8,16,E/B,4504.0
+2020-01-01,506,08:13:00,Wednesday,Main Station,Investigation,8,16,E/B,4587.0
+2020-01-01,504,08:22:00,Wednesday,King/York,Investigation,10,20,W/B,4431.0
+2020-01-01,504,08:36:00,Wednesday,Broadview/Queen,Mechanical,8,16,S/B,4462.0
+2020-01-01,501,11:25:00,Wednesday,Queen And Roncy,Mechanical,5,10,W/B,4489.0
+2020-01-01,504,12:18:00,Wednesday,Dundas West Station,Mechanical,9,18,E/B,4504.0
+2020-01-01,505,13:01:00,Wednesday,Broadview Station,Mechanical,5,10,W/B,1555.0
+2020-01-01,510,13:44:00,Wednesday,Queens Quay Loop,Emergency Services,5,10,S/B,4425.0
+2020-01-01,501,16:24:00,Wednesday,Royal and Lakeshore,Held By,12,22,W/B,4583.0
+2020-01-01,501,18:55:00,Wednesday,Humber loop,Mechanical,10,20,W/B,4508.0
+2020-01-01,501,20:03:00,Wednesday,Humber loop,Investigation,10,20,W/B,4429.0
+2020-01-01,505,21:20:00,Wednesday,dundas and church,Investigation,8,16,W/B,3145.0
+2020-01-01,504,23:23:00,Wednesday,DUNDAS WEST STN,Emergency Services,10,20,S/B,4483.0
+2020-01-02,301,01:30:00,Thursday,long branch loop,Mechanical,5,10,E/B,4463.0
+2020-01-02,504,05:24:00,Thursday,DW Stn,Mechanical,13,26,E/B,4539.0
+2020-01-02,501,05:47:00,Thursday,Roncesvalles and Queen,Investigation,7,14,W/B,4416.0
+2020-01-02,504,08:10:00,Thursday,King/Spadina,Mechanical,5,10,W/B,4567.0
+2020-01-02,510,08:30:00,Thursday,Charlotte Loop,Mechanical,4,8,S/B,4445.0
+2020-01-02,510,09:30:00,Thursday,King and Spadina,Mechanical,4,8,N/B,4445.0
+2020-01-02,504,12:52:00,Thursday,Dufferin Loop,Mechanical,3,11,E/B,4539.0
+2020-01-02,504,14:26:00,Thursday,King and Atlantic,Investigation,8,16,W/B,4539.0
+2020-01-02,504,15:47:00,Thursday,King and  Sherbourne,Investigation,17,24,E/B,4430.0
+2020-01-02,504,16:23:00,Thursday,Queen and Broadview,Mechanical,0,0,E/B,4578.0
+2020-01-02,504,16:45:00,Thursday,Dufferin Gate,Mechanical,6,12,E/B,4583.0
+2020-01-02,511,17:05:00,Thursday,Bathurst Station,Mechanical,4,10,S/B,4550.0
+2020-01-02,504,17:09:00,Thursday,King and Sackville,Mechanical,6,12,W/B,4548.0
+2020-01-02,504,17:19:00,Thursday,Roncy and Queen,Investigation,7,14,E/B,4534.0
+2020-01-02,504,19:04:00,Thursday,King and Spadian,Mechanical,2,8,W/B,4578.0
+2020-01-02,504,19:12:00,Thursday,King and Sumach,Investigation,28,35,W/B,4567.0
+2020-01-02,506,19:38:00,Thursday,Gerrard and Marjorie,Mechanical,6,12,W/B,4531.0
+2020-01-02,506,21:50:00,Thursday,Spadina to Parliament,General Delay,20,28,B/W,
+2020-01-03,501,02:26:00,Friday,long branch loop,Mechanical,7,14,E/B,4444.0
+2020-01-03,504,08:03:00,Friday,King/John,Mechanical,1,1,W/B,4431.0
+2020-01-03,505,08:08:00,Friday,Broadview Station,Mechanical,4,8,W/B,8540.0
+2020-01-03,505,08:40:00,Friday,Dundas West Station,Investigation,4,8,W/B,1027.0
+2020-01-03,504,11:12:00,Friday,Dufferin loop,Emergency Services,7,14,E/B,4557.0
+2020-01-03,505,11:14:00,Friday,Yonge and Dundas,Investigation,4,8,W/B,1078.0
+2020-01-03,501,11:26:00,Friday,Queen/Lee,Investigation,26,34,E/B,4476.0
+2020-01-03,506,11:31:00,Friday,bathurst station,Mechanical,8,16,S/B,8764.0
+2020-01-03,501,11:40:00,Friday,Neville Loop,Investigation,10,20,W/B,4470.0
+2020-01-03,505,11:50:00,Friday,dundas and dufferin,Investigation,8,16,E/B,3101.0
+2020-01-03,505,13:42:00,Friday,Dundas / Sorauren,Investigation,4,8,E/B,1015.0
+2020-01-03,506,13:44:00,Friday,College and Rusholme,Emergency Services,16,24,E/B,4443.0
+2020-01-03,506,14:04:00,Friday,Gerrard and Coxwell,Mechanical,1,2,E/B,4497.0
+2020-01-03,512,14:55:00,Friday,Lansdowne loop,Emergency Services,5,10,E/B,4564.0
+2020-01-03,504,15:08:00,Friday,King and Ontario,Mechanical,6,12,W/B,4490.0
+2020-01-03,505,16:37:00,Friday,Dundas / Dufferin,Mechanical,3,7,E/B,8594.0
+2020-01-03,503,17:30:00,Friday,Kingston Rd / Woodbine,Investigation,7,15,E/B,3171.0
+2020-01-03,503,18:35:00,Friday,Queen / Broadview,Mechanical,8,14,W/B,8513.0
+2020-01-03,505,21:00:00,Friday,Dundas West Station,Emergency Services,4,9,E/B,1078.0
+2020-01-04,506,00:37:00,Saturday,MAIN ST STN,Mechanical,10,20,W/B,4498.0
+2020-01-04,504,02:32:00,Saturday,king and brant,Held By,15,30,W/B,4477.0
+2020-01-04,310,05:08:00,Saturday,Spadina and Willcocks,Mechanical,15,30,S/B,4463.0
+2020-01-04,511,06:57:00,Saturday,Bathurst and Front,Held By,12,19,S/B,4500.0
+2020-01-04,506,08:33:00,Saturday,Coxwell and Gerrard,Late Leaving Garage,6,12,E/B,4413.0
+2020-01-04,506,08:36:00,Saturday,Connaught and Queen,Mechanical,1,2,E/B,4413.0
+2020-01-04,505,10:21:00,Saturday,Dundas and Yonge,Mechanical,5,10,E/B,1075.0
+2020-01-04,505,11:51:00,Saturday,Dundas and George St.,Investigation,5,10,E/B,1115.0
+2020-01-04,504,12:38:00,Saturday,Broadview and Queen,Late Leaving Garage,3,8,W/B,4590.0
+2020-01-04,504,12:41:00,Saturday,Distillery Loop,Late Leaving Garage,5,11,W/B,4409.0
+2020-01-04,511,13:09:00,Saturday,Exhibition Loop,Mechanical,5,10,N/B,4500.0
+2020-01-04,501,14:21:00,Saturday,Queen / John,Emergency Services,7,16,W/B,4534.0
+2020-01-04,512,16:36:00,Saturday,St. Clair and Old Weston Rd.,Held By,29,34,W/B,4535.0
+2020-01-04,504,17:05:00,Saturday,Broadview Station,Mechanical,7,13,W/B,4544.0
+2020-01-04,506,19:05:00,Saturday,College and Spadina,Investigation,9,18,W/B,4447.0
+2020-01-04,512,20:01:00,Saturday,St. Clair and Landsdowne,Mechanical,7,14,W/B,4428.0
+2020-01-04,504,20:07:00,Saturday,Charlotte Loop,Utilized Off Route,9,18,W/B,4473.0
+2020-01-04,501,20:10:00,Saturday,Queensway / Ellis,Investigation,8,15,W/B,4448.0
+2020-01-04,705,22:06:00,Saturday,distillery loop,Investigation,1,1,N/B,4475.0
+2020-01-05,510,00:26:00,Sunday,spadina and queens quay,Mechanical,10,20,N/B,4557.0
+2020-01-05,510,01:04:00,Sunday,spadina and quuens quay,Mechanical,9,15,N/B,4562.0
+2020-01-05,301,04:21:00,Sunday,E/B Trailer Track Russell Yard,Investigation,1,1,E/B,4446.0
+2020-01-05,511,09:40:00,Sunday,CNE loop,Mechanical,8,16,E/B,4554.0
+2020-01-05,501,09:52:00,Sunday,Queen and Pape,Mechanical,8,18,E/B,4550.0
+2020-01-05,505,10:00:00,Sunday,Broadview station,Mechanical,6,12,E/B,1070.0
+2020-01-05,501,10:20:00,Sunday,Humber Loop,Investigation,1,1,E/B,4468.0
+2020-01-05,501,10:39:00,Sunday,Queen ad Strachan,Investigation,7,17,E/B,4575.0
+2020-01-05,301,12:54:00,Sunday,Neville Park,Mechanical,10,20,W/B,4531.0
+2020-01-05,510,15:16:00,Sunday,Dundas Street,Mechanical,35,38,S/B,4476.0
+2020-01-05,505,16:06:00,Sunday,Broadview Station,Mechanical,5,10,W/B,9208.0
+2020-01-05,501,19:55:00,Sunday,The Queensway and Parkside,Held By,89,94,E/B,4523.0
+2020-01-05,505,20:00:00,Sunday,DWS,Utilized Off Route,8,16,E/B,1054.0
+2020-01-05,504,23:31:00,Sunday,DUFFERIN LOOP,Mechanical,3,10,N/B,4551.0
+2020-01-06,505,00:10:00,Monday,Dundas West Station,Investigation,7,14,E/B,1418.0
+2020-01-06,505,05:59:00,Monday,Mount Dennis Garage,Late Leaving Garage,4,9,E/B,1411.0
+2020-01-06,510,08:07:00,Monday,Spadina and King,Mechanical,4,8,S/B,4566.0
+2020-01-06,505,08:33:00,Monday,,General Delay,4,7,B/W,
+2020-01-06,504,09:56:00,Monday,King and River,Mechanical,4,8,E/B,4536.0
+2020-01-06,504,10:04:00,Monday,Dufferin and Liberty Street,Held By,24,32,N/B,4494.0
+2020-01-06,505,13:00:00,Monday,Dundas and Rushholme,Emergency Services,4,8,W/B,1104.0
+2020-01-06,505,16:07:00,Monday,Dundas and sherdian,Held By,102,106,W/B,8545.0
+2020-01-06,505,16:16:00,Monday,Broadview station,Mechanical,4,8,E/B,3125.0
+2020-01-06,506,16:48:00,Monday,High Park Loop,Mechanical,9,18,E/B,4579.0
+2020-01-06,306,18:14:00,Monday,Gerrard and Coxwell,Investigation,0,0,E/B,4469.0
+2020-01-06,506,18:41:00,Monday,Gerrard and Leslie,Mechanical,1,2,W/B,4409.0
+2020-01-06,503,18:59:00,Monday,King and York,Emergency Services,8,16,W/B,9227.0
+2020-01-06,505,20:57:00,Monday,Dundas west station,Emergency Services,5,10,E/B,1020.0
+2020-01-06,506,21:33:00,Monday,Gerrard and Broadview,Mechanical,1,2,E/B,4544.0
+2020-01-06,506,23:17:00,Monday,High Park Loop,Mechanical,6,12,W/B,4544.0
+2020-01-07,501,04:45:00,Tuesday,Russell,Mechanical,7,14,B/W,4486.0
+2020-01-07,501,05:05:00,Tuesday,Humber Loop,Investigation,7,14,E/B,4456.0
+2020-01-07,510,05:18:00,Tuesday,College and Spadina,Held By,18,33,S/B,4428.0
+2020-01-07,306,05:19:00,Tuesday,College and Spadina,Held By,17,0,W/B,4577.0
+2020-01-07,506,05:20:00,Tuesday,College and Spadina,Held By,16,0,W/B,4596.0
+2020-01-07,512,07:21:00,Tuesday,St Clair Station,Mechanical,4,8,W/B,4519.0
+2020-01-07,501,08:13:00,Tuesday,Parkside / Queensway,Investigation,27,34,W/B,4542.0
+2020-01-07,505,08:49:00,Tuesday,Dundas West Station,General Delay,3,4,B/W,8572.0
+2020-01-07,504,10:06:00,Tuesday,Roncesvalles and Grenadier Rd.,Investigation,16,23,N/B,4494.0
+2020-01-07,504,13:13:00,Tuesday,King/Bay,General Delay,41,49,B/W,4440.0
+2020-01-07,505,13:29:00,Tuesday,Dundas and Jarvis,General Delay,27,32,B/W,1549.0
+2020-01-07,505,13:55:00,Tuesday,Dundas west station,Mechanical,4,8,E/B,1043.0
+2020-01-07,505,14:07:00,Tuesday,Dundas west station,Utilized Off Route,4,8,E/B,1549.0
+2020-01-07,501,14:17:00,Tuesday,Humber Loop,Mechanical,6,14,E/B,4458.0
+2020-01-07,503,14:47:00,Tuesday,King and York,Emergency Services,10,20,W/B,3126.0
+2020-01-07,510,14:54:00,Tuesday,Queens Quay and Spadina,Emergency Services,8,14,S/B,4429.0
+2020-01-07,503,15:14:00,Tuesday,king and York,Utilized Off Route,10,20,E/B,3142.0
+2020-01-07,510,15:55:00,Tuesday,King and Spadina,General Delay,3,6,N/B,4535.0
+2020-01-07,506,19:56:00,Tuesday,Gerrard and Broadview,Mechanical,8,16,E/B,4469.0
+2020-01-07,506,19:57:00,Tuesday,Gerrard and Broadview,Mechanical,16,24,E/B,4411.0
+2020-01-07,506,21:45:00,Tuesday,Gerrard and Marjory,Mechanical,9,18,E/B,4559.0
+2020-01-07,501,22:24:00,Tuesday,Russell Yard w/b Trailer Track,Investigation,18,28,E/B,4532.0
+2020-01-07,504,22:31:00,Tuesday,King and Dunn,Investigation,60,70,W/B,4579.0
+2020-01-07,512,22:39:00,Tuesday,St. Clair Station,Mechanical,8,16,W/B,4472.0
+2020-01-07,504,23:16:00,Tuesday,roncessvalees and grenadier,Emergency Services,10,20,N/B,4447.0
+2020-01-08,301,02:12:00,Wednesday,Queen and Greenwood,Mechanical,10,20,E/B,4432.0
+2020-01-08,506,04:59:00,Wednesday,Coxwell at Lower Gerrard,Late Leaving Garage,5,13,E/B,4436.0
+2020-01-08,511,04:59:00,Wednesday,Bathurst and King,Late Leaving Garage,5,8,W/B,4534.0
+2020-01-08,512,05:00:00,Wednesday,Bathurst and St.Clair,Late Leaving Garage,4,7,W/B,4469.0
+2020-01-08,506,05:01:00,Wednesday,Coxwell and Lower Gerrard,Late Leaving Garage,3,8,ew,4583.0
+2020-01-08,501,05:32:00,Wednesday,Neville Loop,Mechanical,7,14,W/B,4447.0
+2020-01-08,501,06:24:00,Wednesday,Queen/University,Investigation,7,14,E/B,4418.0
+2020-01-08,506,06:41:00,Wednesday,Church and Carlton,Mechanical,17,25,W/B,4574.0
+2020-01-08,511,07:32:00,Wednesday,Exhibition Loop,Mechanical,0,0,N/B,4518.0
+2020-01-08,505,08:16:00,Wednesday,Mt. Dennis Garage,Mechanical,4,7,E/B,1359.0
+2020-01-08,505,09:02:00,Wednesday,Dundas / Lansdowne,General Delay,4,7,E/B,1015.0
+2020-01-08,504,10:05:00,Wednesday,King and Simcoe street,Mechanical,1,1,W/B,4413.0
+2020-01-08,501,11:15:00,Wednesday,Browns Line,Held By,7,14,B/W,4508.0
+2020-01-08,505,11:49:00,Wednesday,Dundas / Church,Investigation,7,8,W/B,1004.0
+2020-01-08,505,13:42:00,Wednesday,Dundas and Dufferin,General Delay,29,34,bw,1359.0
+2020-01-08,705,13:55:00,Wednesday,Queen and Hiltz,Mechanical,1,1,E/B,4521.0
+2020-01-08,506,16:54:00,Wednesday,High Park Loop,Mechanical,1,2,E/B,4452.0
+2020-01-08,130,16:56:00,Wednesday,Middlefield Loop,Mechanical,16,32,S/B,1291.0
+2020-01-08,506,17:09:00,Wednesday,Broadview,Mechanical,1,2,W/B,4545.0
+2020-01-08,506,17:13:00,Wednesday,Carlton and Parliament,Mechanical,1,2,W/B,4433.0
+2020-01-08,511,17:55:00,Wednesday,Fleet loop,Mechanical,8,16,N/B,4518.0
+2020-01-08,505,19:59:00,Wednesday,Broadview station,Investigation,5,10,E/B,1015.0
+2020-01-08,505,21:36:00,Wednesday,Dundas St and University,Investigation,5,12,E/B,9219.0
+2020-01-08,506,23:11:00,Wednesday,Howard Park and Parkside,Emergency Services,1,2,W/B,4534.0
+2020-01-09,304,04:01:00,Thursday,Broadview Station,Mechanical,15,30,W/B,4580.0
+2020-01-09,504,05:26:00,Thursday,King and Triller Avenue,Investigation,89,99,W/B,4400.0
+2020-01-09,504,05:32:00,Thursday,King and Wilson Park,Overhead - Pantograph,86,96,E/B,4511.0
+2020-01-09,512,06:21:00,Thursday,St. Clair and Arlington,Emergency Services,8,14,E/B,512.0
+2020-01-09,504,09:02:00,Thursday,King and Tecumseth,Mechanical,1,1,W/B,4417.0
+2020-01-09,506,10:10:00,Thursday,Gerrard and Broadview,Mechanical,0,0,W/B,4588.0
+2020-01-09,504,11:25:00,Thursday,Dufferin Loop,Mechanical,1,1,N/B,4509.0
+2020-01-09,501,11:31:00,Thursday,Lakeshore and Islington,Investigation,3,6,W/B,8111.0
+2020-01-09,505,12:44:00,Thursday,Yonge / Dundas,General Delay,4,8,B/W,9200.0
+2020-01-09,510,13:32:00,Thursday,Spadina Stn.,Emergency Services,5,10,S/B,4499.0
+2020-01-09,505,13:54:00,Thursday,Dundas and Bathurst,General Delay,21,26,B/W,1139.0
+2020-01-09,505,14:40:00,Thursday,Dundas and sackville,Held By,22,26,E/B,3155.0
+2020-01-09,505,15:05:00,Thursday,Dundas and Howard Park,Mechanical,6,12,E/B,1027.0
+2020-01-09,505,15:07:00,Thursday,Dundas westg station,Mechanical,6,12,E/B,1139.0
+2020-01-09,506,15:14:00,Thursday,Gerrard and Marjory,Held By,5,11,W/B,4472.0
+2020-01-10,504,00:29:00,Friday,Dufferin and Springhurst,Emergency Services,71,81,S/B,4437.0
+2020-01-10,510,00:49:00,Friday,Spadina and Bremner,Emergency Services,9,18,S/B,4542.0
+2020-01-10,510,06:35:00,Friday,Spadina and King,Mechanical,9,18,N/B,4598.0
+2020-01-10,508,06:54:00,Friday,Long Branch loop,Mechanical,20,40,B/W,8332.0
+2020-01-10,505,07:59:00,Friday,Dundas / Bay,Investigation,5,9,E/B,1091.0
+2020-01-10,505,08:30:00,Friday,Dundas / Yonge,General Delay,4,8,B/W,1061.0
+2020-01-10,510,11:02:00,Friday,York and Queens Quay,Mechanical,1,1,E/B,4521.0
+2020-01-10,505,11:48:00,Friday,Dundas / Sherbourne,Emergency Services,0,0,E/B,1575.0
+2020-01-10,504,13:27:00,Friday,Distillery loop,General Delay,15,22,W/B,4511.0
+2020-01-10,504,13:44:00,Friday,King/River,Mechanical,7,14,W/B,4442.0
+2020-01-10,505,13:58:00,Friday,Dundas and parliament,General Delay,19,25,B/W,1266.0
+2020-01-10,510,15:44:00,Friday,King and Spadina,Investigation,5,10,N/B,4551.0
+2020-01-10,501,15:55:00,Friday,Queen and Peter,Investigation,16,24,W/B,4443.0
+2020-01-10,505,17:24:00,Friday,Dundas and Bay,Investigation,6,12,W/B,1420.0
+2020-01-10,503,17:52:00,Friday,King and York,Mechanical,8,16,E/B,8519.0
+2020-01-10,505,19:23:00,Friday,Dundas west station,Mechanical,4,8,E/B,1420.0
+2020-01-10,504,19:38:00,Friday,King/Bay,General Delay,10,17,B/W,4413.0
+2020-01-10,501,20:14:00,Friday,queen and carol,Investigation,7,14,E/B,4508.0
+2020-01-10,504,22:34:00,Friday,King and Dunn,Emergency Services,14,24,E/B,4543.0
+2020-01-11,510,00:01:00,Saturday,Spadina Station,Investigation,9,19,S/B,4552.0
+2020-01-11,501,00:40:00,Saturday,QUEEN AND CHURCH ST,Investigation,10,20,E/B,4415.0
+2020-01-11,504,01:53:00,Saturday,King and Niagara,Emergency Services,24,34,B/W,4534.0
+2020-01-11,805,02:24:00,Saturday,King and Bathurst,Held By,26,41,W/B,4600.0
+2020-01-11,505,07:39:00,Saturday,Dundas West Station,Mechanical,10,20,E/B,1264.0
+2020-01-11,504,08:18:00,Saturday,King and Dufferin,Mechanical,8,16,W/B,4560.0
+2020-01-11,501,10:23:00,Saturday,Queen St W & Lansdowne,Mechanical,8,16,E/B,4586.0
+2020-01-11,51,10:53:00,Saturday,St Clair West Wychwood,Investigation,18,26,W/B,4469.0
+2020-01-11,506,11:58:00,Saturday,College St West  Shaw,Mechanical,1,1,E/B,4499.0
+2020-01-11,505,12:47:00,Saturday,DWS,Mechanical,4,8,E/B,1419.0
+2020-01-11,509,12:52:00,Saturday,CNE Loop,Late Leaving Garage,8,16,E/B,4481.0
+2020-01-11,509,13:00:00,Saturday,Spadina Queens Quay,Mechanical,1,1,W/B,4442.0
+2020-01-11,501,13:27:00,Saturday,Queen and church,Mechanical,7,14,E/B,4435.0
+2020-01-11,504,14:00:00,Saturday,Dundas West Stn,Investigation,1,1,S/B,4579.0
+2020-01-11,506,14:38:00,Saturday,Gerrard and Carlaw,Held By,6,14,E/B,4535.0
+2020-01-11,505,15:01:00,Saturday,DWS,Mechanical,4,8,E/B,1417.0
+2020-01-11,505,15:26:00,Saturday,Broadview Station,Mechanical,4,8,W/B,1015.0
+2020-01-11,505,16:50:00,Saturday,Jarvis Street,Investigation,4,8,W/B,3150.0
+2020-01-11,501,18:20:00,Saturday,Neville park loop,Mechanical,7,14,W/B,4547.0
+2020-01-11,505,18:48:00,Saturday,Broadview Station,Mechanical,4,8,W/B,1010.0
+2020-01-11,505,20:22:00,Saturday,Spadina Street,Investigation,4,8,E/B,8539.0
+2020-01-11,512,21:54:00,Saturday,St. Clair West STN,Investigation,8,16,W/B,4544.0
+2020-01-11,504,22:07:00,Saturday,King and Dufferin,Mechanical,8,16,E/B,4472.0
+2020-01-11,501,23:07:00,Saturday,QUEEN AND CHURCH,Diversion,37,47,E/B,4506.0
+2020-01-11,504,23:07:00,Saturday,Queen and Church,Investigation,10,20,W/B,4472.0
+2020-01-11,506,23:26:00,Saturday,"St, Clair and Appleton",Held By,19,27,E/B,4460.0
+2020-01-12,306,01:47:00,Sunday,COLLEGE AND BATHURST,Held By,6,13,E/B,4597.0
+2020-01-12,306,01:47:00,Sunday,COLLEGE AND BATHURST,Held By,10,20,W/B,4509.0
+2020-01-12,501,05:36:00,Sunday,Lakeshore between Humber Loop and Longbranch Branch,General Delay,12,24,W/B,4415.0
+2020-01-12,501,05:54:00,Sunday,Lakeshore and Superior,General Delay,13,26,E/B,4546.0
+2020-01-12,512,05:59:00,Sunday,Bathurst King St West,Utilized Off Route,5,16,N/B,3.0
+2020-01-12,506,06:01:00,Sunday,Coxwell Gerrard,Overhead - Pantograph,1,1,W/B,4514.0
+2020-01-12,510,06:43:00,Sunday,Queens Quay Loop,General Delay,10,20,S/B,4411.0
+2020-01-12,509,07:31:00,Sunday,Spadina Queens Quay,General Delay,25,35,W/B,4573.0
+2020-01-12,504,07:43:00,Sunday,Queen and Braoadview,Late Leaving Garage,10,20,W/B,4593.0
+2020-01-12,511,07:43:00,Sunday,King Street and Bathurst Street,Late Leaving Garage,12,22,N/B,4578.0
+2020-01-12,506,07:45:00,Sunday,Coxwell and Gerrard Street,Late Leaving Garage,8,16,E/B,4598.0
+2020-01-12,511,07:57:00,Sunday,Bathurst and King,Late Leaving Garage,10,19,N/B,4469.0
+2020-01-12,511,08:00:00,Sunday,King And Bathurst,Late Leaving Garage,9,17,S/B,4426.0
+2020-01-12,512,08:02:00,Sunday,Bathurst and St. Clair,Mechanical,6,12,E/B,4534.0
+2020-01-12,506,08:23:00,Sunday,Coxwell and Gerrard Street,Late Leaving Garage,10,13,E/B,4494.0
+2020-01-12,501,09:48:00,Sunday,Yonge and Queen,Investigation,10,20,W/B,4482.0
+2020-01-12,501,10:30:00,Sunday,Yonge/Queen.,Mechanical,0,0,E/B,4511.0
+2020-01-12,512,12:24:00,Sunday,Bathurst St Clair West,General Delay,5,10,W/B,4554.0
+2020-01-12,511,12:31:00,Sunday,Bathurst and Fleet,Mechanical,18,24,W/B,4452.0
+2020-01-12,505,13:27:00,Sunday,Dundas and Jarvis,Mechanical,4,8,E/B,3731.0
+2020-01-12,501,14:17:00,Sunday,LAKESORE AND PARKLAWN,Investigation,47,57,W/B,4538.0
+2020-01-12,504,18:35:00,Sunday,Broadview Station,General Delay,10,20,W/B,4599.0
+2020-01-12,501,21:00:00,Sunday,QUEEN AND JARVIS,Emergency Services,10,20,E/B,4596.0
+2020-01-12,506,22:20:00,Sunday,Gerrard and Highfield,Held By,20,30,W/B,4536.0
+2020-01-13,501,05:34:00,Monday,Russlell Yard,Mechanical,5,13,E/B,4417.0
+2020-01-13,505,09:37:00,Monday,Dundas West Station,General Delay,4,8,B/W,1265.0
+2020-01-13,504,09:54:00,Monday,Broadview Station,Mechanical,4,8,S/B,4496.0
+2020-01-13,505,10:12:00,Monday,Dundas / St. Patrick,General Delay,4,8,E/B,1265.0
+2020-01-13,504,10:31:00,Monday,Queen and Broadview Av.,Held By,1,1,N/B,4560.0
+2020-01-13,510,11:31:00,Monday,Queens Quay and Spadina,Investigation,5,10,E/B,4534.0
+2020-01-13,505,13:39:00,Monday,Broadview station,General Delay,20,26,B/W,1265.0
+2020-01-13,503,15:19:00,Monday,Yonge and King,Mechanical,10,20,W/B,8961.0
+2020-01-13,505,15:40:00,Monday,Broadview STN,Mechanical,6,12,W/B,8566.0
+2020-01-13,505,15:51:00,Monday,Broadview STN,Mechanical,6,12,E/B,1575.0
+2020-01-13,508,16:26:00,Monday,Queen/Roncesvalles,Late Leaving Garage,20,40,E/B,8350.0
+2020-01-13,505,16:51:00,Monday,Broadview STN,Mechanical,6,12,E/B,1356.0
+2020-01-13,511,17:08:00,Monday,CNE Loop,Mechanical,8,16,N/B,4552.0
+2020-01-13,509,22:36:00,Monday,Exhibition Loop,Mechanical,1,2,E/B,4497.0
+2020-01-13,506,22:58:00,Monday,Howard Park and Dundas,Mechanical,7,14,E/B,4559.0
+2020-01-14,506,01:17:00,Tuesday,Broadview and Dundas,Investigation,10,20,E/B,4411.0
+2020-01-14,301,01:36:00,Tuesday,Neville Park,Mechanical,10,20,W/B,4586.0
+2020-01-14,301,03:45:00,Tuesday,E/B trailer Track Russell Yard,Investigation,15,30,E/B,4594.0
+2020-01-14,304,04:43:00,Tuesday,Dundas West StATION,Emergency Services,15,20,N/B,4502.0
+2020-01-14,508,04:47:00,Tuesday,Queen Street west and Roncesvalles Avenue,Utilized Off Route,1,1,W/B,1374.0
+2020-01-14,310,04:54:00,Tuesday,Union station Platform,Mechanical,1,1,W/B,4534.0
+2020-01-14,504,05:26:00,Tuesday,Queen and Broadview Av.,Mechanical,1,1,W/B,4573.0
+2020-01-14,504,06:16:00,Tuesday,Leslie and Queen Street,Held By,7,14,N/B,4517.0
+2020-01-14,501,06:20:00,Tuesday,Queen & Agnes Lane,Mechanical,18,26,W/B,4416.0
+2020-01-14,504,06:33:00,Tuesday,Leslie and Queen,Held By,5,10,N/B,4427.0
+2020-01-14,506,06:34:00,Tuesday,Leslie and Eastern,Held By,7,15,N/B,4595.0
+2020-01-14,504,06:43:00,Tuesday,Leslie and Queen Street,Held By,5,10,N/B,4400.0
+2020-01-14,504,06:46:00,Tuesday,Leslie and Queen Street,Held By,5,10,N/B,4460.0
+2020-01-14,504,06:54:00,Tuesday,Leslie Barns,Held By,5,10,N/B,4584.0
+2020-01-14,511,06:56:00,Tuesday,Queen / Leslie,Held By,7,14,W/B,4453.0
+2020-01-14,511,06:56:00,Tuesday,Queen / Leslie,Held By,7,14,W/B,4480.0
+2020-01-14,511,06:57:00,Tuesday,Queen / Leslie,Held By,7,14,W/B,4590.0
+2020-01-14,506,07:01:00,Tuesday,Leslie Barns,Held By,7,15,W/B,4452.0
+2020-01-14,504,07:04:00,Tuesday,Leslie and Queen Street,Held By,5,10,N/B,4506.0
+2020-01-14,506,07:05:00,Tuesday,Leslie Barns,Held By,7,15,E/B,4566.0
+2020-01-14,501,07:06:00,Tuesday,Queen & Spadina,General Delay,15,8,W/B,4539.0
+2020-01-14,504,07:09:00,Tuesday,Leslie and Queen Street,Held By,5,10,N/B,4436.0
+2020-01-14,510,07:13:00,Tuesday,Spadina and King,Held By,9,11,N/B,4553.0
+2020-01-14,509,07:18:00,Tuesday,Bathurst and Fleet,Held By,5,10,W/B,4433.0
+2020-01-14,504,07:20:00,Tuesday,Leslie and Queen Street,Held By,5,10,N/B,4494.0
+2020-01-14,510,07:20:00,Tuesday,Spadina and King,Held By,7,10,N/B,4544.0
+2020-01-14,510,07:28:00,Tuesday,Spadina and King,Held By,5,9,N/B,4514.0
+2020-01-14,505,07:35:00,Tuesday,Birchmount Garage,Late Leaving Garage,4,8,E/B,1147.0
+2020-01-14,510,07:37:00,Tuesday,Spadina and King,Held By,5,9,N/B,4529.0
+2020-01-14,504,07:40:00,Tuesday,Leslie and Queen Street,Held By,5,10,N/B,4470.0
+2020-01-14,506,07:46:00,Tuesday,Landsdowne and College,Mechanical,8,1,E/B,1052.0
+2020-01-14,510,07:46:00,Tuesday,Spadina and King,Held By,5,9,N/B,4493.0
+2020-01-14,506,07:49:00,Tuesday,Leslie Barns,Held By,7,15,E/B,4500.0
+2020-01-14,510,07:55:00,Tuesday,Spadina and King,Held By,5,9,N/B,4410.0
+2020-01-14,505,08:02:00,Tuesday,Mt. Dennis Garage,Late Leaving Garage,4,3,E/B,1045.0
+2020-01-14,501,08:24:00,Tuesday,Neville Loop,Held By,6,14,W/B,4558.0
+2020-01-14,504,08:44:00,Tuesday,Broadview station,Mechanical,4,8,W/B,4573.0
+2020-01-14,505,09:12:00,Tuesday,Dundas West Station,General Delay,4,8,B/W,1423.0
+2020-01-14,501,10:04:00,Tuesday,Queen & Dufferin,Investigation,4,8,E/B,8848.0
+2020-01-14,501,12:21:00,Tuesday,Bay and Queen,Mechanical,7,14,W/B,4558.0
+2020-01-14,505,12:25:00,Tuesday,Dundas / Lansdowne,Mechanical,4,8,W/B,1606.0
+2020-01-14,505,13:34:00,Tuesday,Broadview station,General Delay,33,39,B/W,1423.0
+2020-01-14,506,14:15:00,Tuesday,Gerrard and Broadview,Mechanical,1,2,E/B,4475.0
+2020-01-14,505,14:30:00,Tuesday,Broadview station,Mechanical,6,12,E/B,1360.0
+2020-01-14,512,14:50:00,Tuesday,Bathurst and St. Clair,Held By,5,9,N/B,4581.0
+2020-01-14,504,15:54:00,Tuesday,King/Dufferin,Mechanical,6,12,E/B,4484.0
+2020-01-14,505,17:40:00,Tuesday,Broadview station,Mechanical,6,12,W/B,1012.0
+2020-01-14,506,19:45:00,Tuesday,College and Bay,Mechanical,8,16,E/B,4585.0
+2020-01-14,509,20:09:00,Tuesday,CNE Loop,Mechanical,10,20,E/B,4433.0
+2020-01-14,505,20:10:00,Tuesday,Dundas and sackville,Investigation,7,12,E/B,1590.0
+2020-01-14,510,21:03:00,Tuesday,Union Station,Emergency Services,10,20,W/B,4493.0
+2020-01-14,506,21:51:00,Tuesday,College and Borden,Mechanical,1,2,E/B,4482.0
+2020-01-14,501,22:00:00,Tuesday,W/B Trailer Track Russell Yard,Investigation,5,10,W/B,4582.0
+2020-01-15,509,00:15:00,Wednesday,Fleet and Bathurst,Mechanical,1,2,W/B,4538.0
+2020-01-15,506,00:30:00,Wednesday,College and Spadina,Emergency Services,18,27,E/B,4475.0
+2020-01-15,506,05:03:00,Wednesday,Gerrard and Broadview,Held By,9,1,W/B,4554.0
+2020-01-15,306,05:37:00,Wednesday,College and Spadina,Held By,5,25,E/B,4568.0
+2020-01-15,505,05:46:00,Wednesday,Dundas / Spadina,Investigation,4,7,W/B,3122.0
+2020-01-15,504,06:50:00,Wednesday,King and Strachan,Mechanical,1,1,W/B,4498.0
+2020-01-15,508,07:22:00,Wednesday,Queen and Roncesvalles Avenue,Utilized Off Route,1,1,W/B,1221.0
+2020-01-15,504,08:10:00,Wednesday,King and Bathurst Street,Mechanical,1,1,E/B,4550.0
+2020-01-15,501,08:53:00,Wednesday,Queen and Jameson,Investigation,5,12,E/B,4524.0
+2020-01-15,505,09:02:00,Wednesday,Dundas West Station,General Delay,4,7,B/W,8578.0
+2020-01-15,504,09:36:00,Wednesday,Roncesvalles and Marion Street,Emergency Services,16,21,S/B,4508.0
+2020-01-15,501,09:38:00,Wednesday,Queen and Dwight,Investigation,10,20,W/B,4510.0
+2020-01-15,505,09:44:00,Wednesday,Dundas / Yonge,General Delay,2,2,W/B,9211.0
+2020-01-15,504,11:38:00,Wednesday,Roncesvalles and Parkside Drive,Mechanical,7,14,S/B,4598.0
+2020-01-15,504,12:25:00,Wednesday,King/Berkely,Held By,39,46,W/B,4547.0
+2020-01-15,501,14:02:00,Wednesday,Ontario and Queen,Held By,13,20,W/B,4479.0
+2020-01-15,503,14:20:00,Wednesday,Broadview and Queen,Investigation,10,20,W/B,8545.0
+2020-01-15,505,14:28:00,Wednesday,Dundas and yonge,General Delay,25,31,W/B,1078.0
+2020-01-15,505,15:23:00,Wednesday,Dundas west station,Mechanical,6,12,E/B,1078.0
+2020-01-15,505,15:40:00,Wednesday,Dundas west station,Mechanical,6,12,E/B,1016.0
+2020-01-15,510,15:55:00,Wednesday,King and Spadina,Held By,3,6,N/B,4474.0
+2020-01-15,805,20:16:00,Wednesday,Leslie and Queen,Mechanical,1,2,N/B,4568.0
+2020-01-15,501,20:41:00,Wednesday,Lakeshore and Superior,Mechanical,1,2,E/B,4446.0
+2020-01-15,504,20:51:00,Wednesday,Dufferin Loop,Mechanical,10,20,N/B,4516.0
+2020-01-15,510,22:14:00,Wednesday,Queen's Quay Loop,Mechanical,9,18,S/B,4441.0
+2020-01-15,509,22:54:00,Wednesday,Exhibition Loop,Mechanical,1,2,E/B,4538.0
+2020-01-15,505,23:10:00,Wednesday,Dundas West Station,Investigation,7,14,W/B,1115.0
+2020-01-15,512,23:35:00,Wednesday,St. Clair Station,Mechanical,1,2,W/B,4552.0
+2020-01-15,501,23:42:00,Wednesday,EB Trailer Track Russell Yard,Investigation,10,20,E/B,4444.0
+2020-01-16,512,01:13:00,Thursday,St. Clair Station,Mechanical,8,16,W/B,4460.0
+2020-01-16,501,01:35:00,Thursday,Queen and Bay,Held By,48,58,E/B,4564.0
+2020-01-16,512,01:53:00,Thursday,St. Clair and Lansdowne,Mechanical,8,16,W/B,4549.0
+2020-01-16,504,04:32:00,Thursday,Queen Street and Leslie Street,Mechanical,1,1,W/B,4563.0
+2020-01-16,504,06:03:00,Thursday,King and Dufferin Street,Mechanical,1,1,W/B,4439.0
+2020-01-16,306,06:05:00,Thursday,Gerrard and Broadview,Mechanical,0,0,E/B,4442.0
+2020-01-16,509,07:01:00,Thursday,CNE Loop,Mechanical,6,12,E/B,4573.0
+2020-01-16,504,07:03:00,Thursday,Queen Street and Leslie Street,Mechanical,1,1,W/B,4433.0
+2020-01-16,508,07:22:00,Thursday,Quen and Roncesvalles Av.,Utilized Off Route,1,1,W/B,8374.0
+2020-01-16,505,08:20:00,Thursday,Dundas / Bathurst,Mechanical,4,8,r,1633.0
+2020-01-16,506,08:26:00,Thursday,Gerrard and Broadview,Mechanical,0,0,E/B,4595.0
+2020-01-16,506,08:28:00,Thursday,Gerrad and Broadview,Mechanical,0,0,E/B,4475.0
+2020-01-16,505,09:04:00,Thursday,Dundas West Station,General Delay,3,7,B/W,8501.0
+2020-01-16,506,10:02:00,Thursday,Gerrard and Greenwood,Held By,8,15,E/B,4496.0
+2020-01-16,505,10:48:00,Thursday,Dundas / River,Mechanical,4,7,W/B,8553.0
+2020-01-16,501,12:13:00,Thursday,Broadview and Queen,Mechanical,8,16,E/B,4418.0
+2020-01-16,504,13:13:00,Thursday,Dufferin/King,Held By,16,24,E/B,4499.0
+2020-01-16,505,13:38:00,Thursday,Broadview station,General Delay,21,27,B/W,1073.0
+2020-01-16,506,14:30:00,Thursday,Gerrard and Broadview,Mechanical,31,39,E/B,4531.0
+2020-01-16,505,14:47:00,Thursday,Broadview station,Utilized Off Route,6,12,W/B,1422.0
+2020-01-16,505,15:04:00,Thursday,Broadview station,Investigation,6,12,E/B,1136.0
+2020-01-16,506,15:28:00,Thursday,Dundas and Howard park,Investigation,8,16,W/B,4526.0
+2020-01-16,504,15:49:00,Thursday,Distillery loop,Mechanical,6,12,W/B,4598.0
+2020-01-16,510,15:55:00,Thursday,King and Spadina,Held By,3,6,N/B,4459.0
+2020-01-16,506,16:06:00,Thursday,Dundas and Howard Park,Investigation,8,16,W/B,4475.0
+2020-01-16,505,17:02:00,Thursday,Dundas west station,Mechanical,6,12,E/B,8553.0
+2020-01-16,501,17:47:00,Thursday,Queen/Peter,Investigation,7,14,E/B,4467.0
+2020-01-16,505,18:16:00,Thursday,Dundas west station,Investigation,6,12,E/B,1045.0
+2020-01-16,505,19:22:00,Thursday,Dundas west station,Utilized Off Route,6,12,E/B,1265.0
+2020-01-16,501,20:25:00,Thursday,Queen and Peter,Mechanical,6,12,E/B,4468.0
+2020-01-16,512,20:45:00,Thursday,St. Clair West STN,Held By,11,17,E/B,4552.0
+2020-01-16,506,21:39:00,Thursday,Dundas and Howard Park,Investigation,9,17,W/B,4475.0
+2020-01-17,301,00:23:00,Friday,LONG BRANCH LOOP,Mechanical,10,20,E/B,4460.0
+2020-01-17,501,00:41:00,Friday,neville loop,General Delay,5,10,W/B,4479.0
+2020-01-17,501,00:46:00,Friday,long branch loop,Mechanical,10,20,E/B,4524.0
+2020-01-17,306,01:39:00,Friday,Gerrard and Ashdale,Emergency Services,19,29,W/B,4597.0
+2020-01-17,504,05:29:00,Friday,Queen Street and Leslie street,Mechanical,1,1,W/B,4531.0
+2020-01-17,512,05:45:00,Friday,Bathurst and St Clair,Late Leaving Garage,6,11,E/B,4411.0
+2020-01-17,505,06:10:00,Friday,Dundas West Station,Mechanical,5,9,W/B,1017.0
+2020-01-17,501,06:37:00,Friday,Humber Loop,Emergency Services,8,16,E/B,4473.0
+2020-01-17,505,06:41:00,Friday,Dundas / Gladstone,Mechanical,4,7,E/B,1113.0
+2020-01-17,504,06:51:00,Friday,Broadview Station,Mechanical,7,14,S/B,4499.0
+2020-01-17,501,07:01:00,Friday,Humber Loop,Emergency Services,6,14,E/B,4508.0
+2020-01-17,504,07:20:00,Friday,Broadview and Dundas,Mechanical,1,1,S/B,4585.0
+2020-01-17,508,07:22:00,Friday,Queen and Roncesvalles,Utilized Off Route,1,1,W/B,8142.0
+2020-01-17,511,07:57:00,Friday,Exhibition East Loop,Mechanical,0,0,S/B,4517.0
+2020-01-17,510,08:07:00,Friday,Queens Quay and Spadina,Held By,110,115,W/B,4549.0
+2020-01-17,501,08:08:00,Friday,Eglinton Garage,Mechanical,7,0,W/B,8657.0
+2020-01-17,506,08:19:00,Friday,Gerrard Braodviiew,Overhead - Pantograph,1,1,E/B,4541.0
+2020-01-17,506,08:25:00,Friday,Broadview Gerrard,Overhead - Pantograph,1,1,E/B,4557.0
+2020-01-17,506,08:57:00,Friday,Gerrard Broadview,Overhead - Pantograph,1,1,E/B,4514.0
+2020-01-17,510,08:58:00,Friday,Spadina and King,Mechanical,5,10,S/B,4493.0
+2020-01-17,512,08:59:00,Friday,St. Clair and Old Weston,Mechanical,40,44,W/B,4443.0
+2020-01-17,505,09:15:00,Friday,Dundas / Sackville,Mechanical,4,8,W/B,1263.0
+2020-01-17,504,09:26:00,Friday,Leslie Barns Yard,Emergency Services,1,1,B/W,4585.0
+2020-01-17,501,09:35:00,Friday,Neville Loop,Mechanical,7,14,W/B,4552.0
+2020-01-17,505,09:44:00,Friday,Broadview Station,General Delay,4,8,W/B,1555.0
+2020-01-17,506,12:24:00,Friday,Dundas Howard Park,Investigation,8,16,W/B,4590.0
+2020-01-17,505,13:12:00,Friday,Dundas and Bathurst,Investigation,6,12,E/B,1416.0
+2020-01-17,504,13:15:00,Friday,Roncesvalles and Marion St,Investigation,77,84,S/B,4540.0
+2020-01-17,505,13:34:00,Friday,Dundas west station,Utilized Off Route,6,12,E/B,1329.0
+2020-01-17,505,14:06:00,Friday,Dundas and bathurst,General Delay,28,34,E/B,1029.0
+2020-01-17,805,14:22:00,Friday,Broadview Queen,Overhead - Pantograph,1,1,S/B,4549.0
+2020-01-17,506,14:38:00,Friday,Dundas and Howard Park,Investigation,7,14,W/B,4525.0
+2020-01-17,505,14:53:00,Friday,Broadview station,Mechanical,6,12,W/B,8522.0
+2020-01-17,504,14:59:00,Friday,King and Bathurst,Mechanical,7,14,W/B,4470.0
+2020-01-17,505,15:52:00,Friday,Broadview station,Mechanical,6,12,E/B,1029.0
+2020-01-17,510,15:55:00,Friday,King and Spadina,Held By,3,6,N/B,4549.0
+2020-01-17,506,16:18:00,Friday,College and Rusholme,Held By,12,20,E/B,4541.0
+2020-01-17,501,17:06:00,Friday,Queensway/South Kingsway,Investigation,7,14,E/B,4500.0
+2020-01-17,501,17:06:00,Friday,Humber Loop,Mechanical,0,0,E/B,4516.0
+2020-01-17,501,19:18:00,Friday,Queen/Leslie,Mechanical,0,0,E/B,4535.0
+2020-01-17,501,21:42:00,Friday,queen and peter,Investigation,10,20,W/B,4532.0
+2020-01-18,511,01:56:00,Saturday,CNE Loop,Emergency Services,22,30,E/B,4515.0
+2020-01-18,301,02:20:00,Saturday,queen and conaught,Held By,49,64,E/B,4548.0
+2020-01-18,506,09:05:00,Saturday,College Street West  Bathurst,Held By,30,38,E/B,4523.0
+2020-01-18,505,10:01:00,Saturday,Dundas and University,Mechanical,5,10,E/B,8599.0
+2020-01-18,506,10:03:00,Saturday,Dundas Street West  Howard Park,Investigation,8,16,W/B,4521.0
+2020-01-18,511,10:46:00,Saturday,Bathurst and Dundas,Mechanical,8,16,S/B,4563.0
+2020-01-18,504,11:03:00,Saturday,Dufferin and King,Mechanical,0,0,E/B,4469.0
+2020-01-18,504,12:05:00,Saturday,Queen and King,Held By,5,14,W/B,4469.0
+2020-01-18,501,12:12:00,Saturday,Queen and Parialment,Held By,82,90,W/B,4508.0
+2020-01-18,504,13:06:00,Saturday,Broadview Stn,Investigation,7,13,W/B,4584.0
+2020-01-18,505,13:24:00,Saturday,DWS,Mechanical,5,10,E/B,1048.0
+2020-01-18,505,13:24:00,Saturday,Roncesvalles and Dundas,Mechanical,5,10,E/B,1048.0
+2020-01-18,501,13:30:00,Saturday,Queen and Broadview,General Delay,15,23,W/B,4558.0
+2020-01-18,501,13:44:00,Saturday,Queen and Parliament,Investigation,6,12,E/B,4535.0
+2020-01-18,512,13:49:00,Saturday,St Clair West  Old Weston Rd.,Mechanical,5,10,E/B,4491.0
+2020-01-18,509,15:01:00,Saturday,Fleet and Bathurst,Investigation,7,14,E/B,4591.0
+2020-01-18,505,15:11:00,Saturday,Broadview Station,Mechanical,5,10,W/B,8529.0
+2020-01-18,504,15:30:00,Saturday,Bathurst and King,Held By,8,13,W/B,504.0
+2020-01-18,506,15:32:00,Saturday,Upper Gerrard and Glenmount Park rd,Held By,10,17,W/B,4544.0
+2020-01-18,501,16:09:00,Saturday,Humber Loop,Mechanical,7,14,E/B,4509.0
+2020-01-18,506,16:45:00,Saturday,Gerrard and Jones,Held By,81,89,E/B,4424.0
+2020-01-18,501,16:52:00,Saturday,Queen and Dovercourt,Mechanical,6,12,E/B,4446.0
+2020-01-18,501,17:52:00,Saturday,Queen and Sackville,Held By,15,22,E/B,4508.0
+2020-01-18,501,18:03:00,Saturday,Queen and Dovercourt,Investigation,6,12,E/B,4552.0
+2020-01-18,506,18:26:00,Saturday,Upper Gerrard and Glenmount Park rd,Held By,8,16,E/B,4531.0
+2020-01-18,501,19:11:00,Saturday,Queen and Bay,Investigation,6,12,W/B,4437.0
+2020-01-18,504,19:37:00,Saturday,Entire Route,General Delay,1,1,B/W,
+2020-01-18,501,19:46:00,Saturday,Roncesvalles and The Queensway,Investigation,6,12,W/B,4582.0
+2020-01-18,504,20:39:00,Saturday,Broadview and Gerrard,Investigation,15,25,S/B,4454.0
+2020-01-18,510,22:48:00,Saturday,Charlotte and King,Investigation,1,1,S/B,4559.0
+2020-01-18,506,23:24:00,Saturday,Gerrard and Pape,Investigation,8,18,E/B,4470.0
+2020-01-19,310,03:16:00,Sunday,Spadina and Queen,Investigation,15,30,N/B,4542.0
+2020-01-19,306,03:40:00,Sunday,dundas west stn,Mechanical,20,40,E/B,4463.0
+2020-01-19,501,05:42:00,Sunday,Queen & University,Held By,6,16,E/B,4530.0
+2020-01-19,511,08:39:00,Sunday,Bathurst and Fleet,Held By,8,16,S/B,4496.0
+2020-01-19,505,09:16:00,Sunday,Dundas West Station,Held By,8,16,E/B,3162.0
+2020-01-19,501,09:35:00,Sunday,Queen & Parliament,Mechanical,0,0,E/B,4444.0
+2020-01-19,505,11:35:00,Sunday,Broadview Station,Held By,6,12,W/B,8552.0
+2020-01-19,505,12:40:00,Sunday,Broadview Station,Mechanical,5,10,E/B,
+2020-01-19,511,12:46:00,Sunday,Fleet Loop,Held By,7,15,S/B,4472.0
+2020-01-19,505,15:49:00,Sunday,University Ave,Investigation,5,10,E/B,8578.0
+2020-01-19,501,16:13:00,Sunday,Neville Loop,Investigation,26,33,E/B,4444.0
+2020-01-19,506,16:22:00,Sunday,Gerrard and Highfield,Held By,11,21,W/B,4498.0
+2020-01-19,509,18:00:00,Sunday,Harborfront Tunnel and Queens Quay STN,Mechanical,4,13,N/B,4425.0
+2020-01-19,511,18:00:00,Sunday,Bloor street,Held By,12,18,N/B,4544.0
+2020-01-19,506,18:53:00,Sunday,Gerrard and Broadview,Held By,5,15,E/B,4551.0
+2020-01-19,504,19:55:00,Sunday,king and walnut,Investigation,9,45,E/B,4599.0
+2020-01-19,512,19:58:00,Sunday,St. Clair/Yonge Stn,Investigation,8,18,W/B,4469.0
+2020-01-19,511,20:32:00,Sunday,CNE,Emergency Services,6,12,E/B,4578.0
+2020-01-19,506,20:52:00,Sunday,Gerrard and Highfield,Held By,8,18,W/B,4577.0
+2020-01-19,512,21:49:00,Sunday,St. Clair/Yonge STN,Held By,10,18,W/B,4557.0
+2020-01-19,501,23:09:00,Sunday,W/B trailer Russell Yard,Investigation,10,20,E/B,4564.0
+2020-01-20,506,00:07:00,Monday,High Park Loop,Mechanical,9,18,E/B,4448.0
+2020-01-20,301,01:57:00,Monday,Queen and Bermount,Held By,89,99,W/B,4552.0
+2020-01-20,301,02:15:00,Monday,Humber Loop,Investigation,5,10,E/B,4571.0
+2020-01-20,310,04:39:00,Monday,Spadina and Queensquay,Mechanical,1,1,N/B,4526.0
+2020-01-20,304,05:04:00,Monday,Broadview and Queen Street,Mechanical,1,1,S/B,4563.0
+2020-01-20,512,05:17:00,Monday,St Clair & Oakwood,Mechanical,11,17,W/B,4431.0
+2020-01-20,512,05:45:00,Monday,St Clair & Bathurst,Utilized Off Route,4,8,E/B,4517.0
+2020-01-20,510,07:24:00,Monday,Queens Quay and Spadina,Mechanical,1,2,S/B,4563.0
+2020-01-20,504,07:30:00,Monday,King and Younge,Mechanical,1,1,W/B,4481.0
+2020-01-20,506,08:04:00,Monday,College and Landsdowne,Late Leaving Garage,21,0,E/B,1053.0
+2020-01-20,505,08:29:00,Monday,Dundas West Station,General Delay,1,1,E/B,1273.0
+2020-01-20,506,08:50:00,Monday,Carlton and Church,General Delay,10,18,W/B,4482.0
+2020-01-20,504,09:36:00,Monday,King and Fraser,Held By,5,10,E/B,4428.0
+2020-01-20,512,10:12:00,Monday,St Clair Stn,Mechanical,0,0,W/B,4547.0
+2020-01-20,504,10:17:00,Monday,King and Church Street,Held By,6,11,E/B,4536.0
+2020-01-20,504,10:32:00,Monday,Dundas West Station,Held By,6,12,S/B,4477.0
+2020-01-20,504,10:55:00,Monday,King and River,Mechanical,1,1,W/B,4522.0
+2020-01-20,503,11:23:00,Monday,York / Adelaide,Investigation,10,20,E/B,8479.0
+2020-01-20,505,13:43:00,Monday,Dundas west station,General Delay,25,31,E/B,1118.0
+2020-01-20,505,14:49:00,Monday,Broadview station,Mechanical,6,12,W/B,1281.0
+2020-01-20,504,16:21:00,Monday,King/Queen,General Delay,15,21,E/B,4515.0
+2020-01-20,501,16:45:00,Monday,Queen/Kingston rd,Mechanical,7,13,W/B,3627.0
+2020-01-20,504,18:18:00,Monday,King/Bathurst,Mechanical,6,12,E/B,4434.0
+2020-01-20,509,19:10:00,Monday,Queens Quay and Spadina,Mechanical,1,1,W/B,4588.0
+2020-01-20,504,19:35:00,Monday,Distillary loop,Held By,6,12,N/B,4579.0
+2020-01-20,511,19:46:00,Monday,Fleet loop,Mechanical,9,18,N/B,4419.0
+2020-01-20,505,20:07:00,Monday,Dundas and Jarvis,Mechanical,4,8,E/B,1040.0
+2020-01-20,509,21:35:00,Monday,Queens Quay and Spadina,Mechanical,1,2,W/B,4586.0
+2020-01-20,510,21:40:00,Monday,spadina stn,Mechanical,5,10,S/B,4497.0
+2020-01-20,512,21:50:00,Monday,St. Clair and Northcliffe,Mechanical,1,2,W/B,4456.0
+2020-01-20,504,21:53:00,Monday,dufferin loop,Mechanical,8,16,N/B,4442.0
+2020-01-21,301,00:21:00,Tuesday,Longbranch,Investigation,29,39,E/B,4561.0
+2020-01-21,504,00:35:00,Tuesday,king and spadina,Mechanical,1,11,E/B,4536.0
+2020-01-21,510,01:10:00,Tuesday,Spadina and Richmond,Investigation,15,25,N/B,4462.0
+2020-01-21,304,02:31:00,Tuesday,dundas  west stn,Mechanical,15,30,S/B,4515.0
+2020-01-21,301,03:05:00,Tuesday,Humber Loop,Investigation,8,16,E/B,4535.0
+2020-01-21,501,05:12:00,Tuesday,Lansdowne and Queen,Mechanical,10,10,E/B,4528.0
+2020-01-21,512,05:50:00,Tuesday,St Clair & Yonge,Held By,190,194,W/B,4592.0
+2020-01-21,501,06:30:00,Tuesday,Queen and Connaught,Held By,7,15,W/B,4525.0
+2020-01-21,508,07:22:00,Tuesday,Queen and Roncesvalles,Utilized Off Route,1,1,W/B,8483.0
+2020-01-21,501,08:06:00,Tuesday,Queen and Victoria,Mechanical,6,12,E/B,4528.0
+2020-01-21,505,08:42:00,Tuesday,Dundas West Station,General Delay,0,0,B/W,8526.0
+2020-01-21,504,08:51:00,Tuesday,King and University,Mechanical,7,13,E/B,4586.0
+2020-01-21,506,09:05:00,Tuesday,Coxwell Loop,Held By,28,36,W/B,1202.0
+2020-01-21,506,09:26:00,Tuesday,College and Spadina,General Delay,12,20,W/B,4433.0
+2020-01-21,504,09:32:00,Tuesday,Broadview and Withrow Avenue,Held By,8,14,N/B,4531.0
+2020-01-21,501,12:40:00,Tuesday,Queen/Victoria,Mechanical,8,15,W/B,4425.0
+2020-01-21,505,12:42:00,Tuesday,Dundas West Station,Mechanical,5,10,E/B,3155.0
+2020-01-21,504,13:36:00,Tuesday,Roncesvalles/Howard park,Held By,7,14,S/B,4429.0
+2020-01-21,505,13:44:00,Tuesday,Dundas and Broadview,General Delay,40,45,B/W,1003.0
+2020-01-21,504,14:31:00,Tuesday,Roncesvalles yard,Mechanical,6,12,S/B,4428.0
+2020-01-21,511,15:05:00,Tuesday,Bathurst station,Mechanical,1,1,S/B,4495.0
+2020-01-21,505,15:44:00,Tuesday,Dundas west station,Late Leaving Garage,5,10,E/B,1022.0
+2020-01-21,506,15:48:00,Tuesday,College and Augusta,Held By,8,16,W/B,4448.0
+2020-01-21,511,15:53:00,Tuesday,Bathurst and Fleet,Mechanical,1,1,N/B,4495.0
+2020-01-21,510,15:55:00,Tuesday,King and Spadina,General Delay,5,10,N/B,4543.0
+2020-01-21,511,16:45:00,Tuesday,Bathurst station,Emergency Services,1,1,S/B,4596.0
+2020-01-21,509,17:40:00,Tuesday,Fleet and Bathurst,Held By,5,13,E/B,4557.0
+2020-01-21,504,18:14:00,Tuesday,Dufferin/Springhurst,Investigation,29,36,N/B,4531.0
+2020-01-21,503,18:21:00,Tuesday,Queen and carlaw,Investigation,1,1,E/B,3104.0
+2020-01-21,504,20:48:00,Tuesday,King and Peter,Mechanical,22,30,W/B,4452.0
+2020-01-21,505,22:20:00,Tuesday,Dundas/Euclid,Investigation,5,10,W/B,9221.0
+2020-01-21,805,22:29:00,Tuesday,Parliament and Gerrard,Investigation,1,2,S/B,4516.0
+2020-01-22,512,00:15:00,Wednesday,St. Clair and Spadina,Mechanical,7,14,W/B,4522.0
+2020-01-22,506,01:38:00,Wednesday,Gerrard and Beaton,Held By,14,24,E/B,4551.0
+2020-01-22,310,02:13:00,Wednesday,Union Station,Held By,209,209,E/B,4459.0
+2020-01-22,504,04:09:00,Wednesday,Roncesvalles Yard,Late Leaving Garage,5,1,W/B,4470.0
+2020-01-22,510,05:15:00,Wednesday,Spadina & Queens Quay,Held By,33,1,E/B,4559.0
+2020-01-22,512,06:03:00,Wednesday,Leslie St at Queen St E,Late Leaving Garage,7,6,W/B,4491.0
+2020-01-22,510,06:06:00,Wednesday,Leslie St and Queen St E,Late Leaving Garage,4,8,W/B,4467.0
+2020-01-22,504,06:07:00,Wednesday,Leslie St and Queen St E,Late Leaving Garage,3,6,W/B,4495.0
+2020-01-22,505,06:44:00,Wednesday,Dundas,Utilized Off Route,0,0,W/B,1560.0
+2020-01-22,505,06:50:00,Wednesday,Dundas,Utilized Off Route,0,0,W/B,8403.0
+2020-01-22,503,06:53:00,Wednesday,York / King,Utilized Off Route,0,0,E/B,8497.0
+2020-01-22,505,06:59:00,Wednesday,Dundas West,Utilized Off Route,0,0,E/B,1111.0
+2020-01-22,505,07:04:00,Wednesday,Dundas West Station,Utilized Off Route,0,0,E/B,1549.0
+2020-01-22,505,07:16:00,Wednesday,Dundas West Station,General Delay,4,7,E/B,1113.0
+2020-01-22,505,07:16:00,Wednesday,Dundas / Keele,Utilized Off Route,0,0,E/B,8530.0
+2020-01-22,505,07:21:00,Wednesday,Dundas West Station,Utilized Off Route,0,0,E/B,8482.0
+2020-01-22,506,07:49:00,Wednesday,Leslie St and Queen St E,Late Leaving Garage,14,10,W/B,4570.0
+2020-01-22,506,07:58:00,Wednesday,Main Station,Utilized Off Route,8,0,W/B,8512.0
+2020-01-22,506,07:59:00,Wednesday,College and Landsdowne,Utilized Off Route,8,0,E/B,1130.0
+2020-01-22,506,08:06:00,Wednesday,Main Station,Utilized Off Route,4,8,W/B,8631.0
+2020-01-22,506,08:07:00,Wednesday,College and Landsdowne,Utilized Off Route,4,8,E/B,1147.0
+2020-01-22,501,08:15:00,Wednesday,Roncessvalles and Queen,Utilized Off Route,3,6,E/B,8097.0
+2020-01-22,501,08:17:00,Wednesday,Queen and Kingston Rd,Utilized Off Route,6,0,W/B,8797.0
+2020-01-22,506,08:22:00,Wednesday,Main Station,Utilized Off Route,4,8,W/B,3161.0
+2020-01-22,501,08:22:00,Wednesday,Roncesvalles and Queen,Utilized Off Route,3,6,E/B,8038.0
+2020-01-22,501,08:23:00,Wednesday,Queen and Kingston Rd.,Utilized Off Route,3,6,W/B,8826.0
+2020-01-22,506,08:23:00,Wednesday,College and Landsdowne,Utilized Off Route,4,8,E/B,1099.0
+2020-01-22,501,08:29:00,Wednesday,Queen and Roncesvalles,Utilized Off Route,3,6,E/B,8046.0
+2020-01-22,501,08:30:00,Wednesday,Queen and Kingston rd,Utilized Off Route,3,6,W/B,8885.0
+2020-01-22,506,08:31:00,Wednesday,College and Dundas,Utilized Off Route,4,8,E/B,
+2020-01-22,506,09:16:00,Wednesday,Carlton and Jarvis,General Delay,12,20,E/B,4518.0
+2020-01-22,501,09:21:00,Wednesday,Queen and University,General Delay,18,24,W/B,4558.0
+2020-01-22,506,09:25:00,Wednesday,Main station,Utilized Off Route,4,8,W/B,8576.0
+2020-01-22,504,09:27:00,Wednesday,Rocesvalles and Howad Park,Mechanical,5,10,S/B,4410.0
+2020-01-22,505,09:42:00,Wednesday,Dundas / Bay,Emergency Services,3,7,E/B,8406.0
+2020-01-22,504,10:20:00,Wednesday,King and Dufferin,Emergency Services,418,426,W/B,4560.0
+2020-01-22,501,11:19:00,Wednesday,Queen and Shaw,Investigation,7,14,E/B,4423.0
+2020-01-22,505,11:53:00,Wednesday,Dundas / Spadina,Mechanical,4,8,E/B,1024.0
+2020-01-22,504,13:20:00,Wednesday,King/Sumach to Brodview station,General Delay,20,26,E/B,4590.0
+2020-01-22,501,13:38:00,Wednesday,Humber Loop,Mechanical,10,20,W/B,4562.0
+2020-01-22,505,13:45:00,Wednesday,Dundas west station,Mechanical,6,12,E/B,1013.0
+2020-01-22,505,14:03:00,Wednesday,dundas and bay,General Delay,31,37,B/W,8962.0
+2020-01-22,505,14:17:00,Wednesday,Broadview Station,Mechanical,6,12,E/B,1418.0
+2020-01-22,505,15:47:00,Wednesday,Dundas west stn,Late Leaving Garage,6,12,E/B,1040.0
+2020-01-22,501,16:01:00,Wednesday,Queen/Connaught,Late Leaving Garage,6,11,E/B,4561.0
+2020-01-22,510,16:02:00,Wednesday,King and Spadina,General Delay,5,10,N/B,4473.0
+2020-01-22,505,16:16:00,Wednesday,Broadview Station,Mechanical,6,12,W/B,1411.0
+2020-01-22,505,18:31:00,Wednesday,Broadview Station,Mechanical,6,12,W/B,8962.0
+2020-01-22,705,18:38:00,Wednesday,St. Clair Station,General Delay,12,17,W/B,4556.0
+2020-01-22,511,18:56:00,Wednesday,Fleet loop,Emergency Services,8,16,N/B,4463.0
+2020-01-22,506,19:03:00,Wednesday,College and Crawford,Investigation,38,46,E/B,4570.0
+2020-01-22,506,19:10:00,Wednesday,College and Ossington,Held By,12,20,W/B,4445.0
+2020-01-22,505,19:27:00,Wednesday,Dundas and Ossington,Mechanical,6,12,E/B,1013.0
+2020-01-22,504,20:01:00,Wednesday,King and Bathurst,Emergency Services,27,35,W/B,4597.0
+2020-01-22,505,20:21:00,Wednesday,Dundas and Spadina,Utilized Off Route,6,12,E/B,3161.0
+2020-01-22,504,21:05:00,Wednesday,King and Sackville,Emergency Services,8,16,W/B,4582.0
+2020-01-23,306,01:55:00,Thursday,College and Jarvis,Held By,15,25,E/B,4458.0
+2020-01-23,504,05:25:00,Thursday,Leslie and Lakeshore,Mechanical,8,16,N/B,4551.0
+2020-01-23,510,05:33:00,Thursday,St Clair and Bathurst,Held By,5,10,W/B,4593.0
+2020-01-23,510,05:51:00,Thursday,King and Spadina,Held By,8,15,N/B,4495.0
+2020-01-23,509,06:08:00,Thursday,CNE Loop,Mechanical,6,12,E/B,4491.0
+2020-01-23,508,06:58:00,Thursday,Queen and Roncesvalles Av.,Utilized Off Route,1,1,W/B,8341.0
+2020-01-23,509,07:35:00,Thursday,CNE Loop,Mechanical,6,12,E/B,4491.0
+2020-01-23,505,08:27:00,Thursday,Broadview Station,General Delay,4,8,W/B,1060.0
+2020-01-23,511,09:03:00,Thursday,Bathurst / King,Held By,8,15,N/B,4454.0
+2020-01-23,501,09:11:00,Thursday,Queen and John,Mechanical,4,8,W/B,8641.0
+2020-01-23,504,09:28:00,Thursday,Broadview and Queen,Mechanical,1,1,S/B,4426.0
+2020-01-23,504,10:42:00,Thursday,King and River,Mechanical,1,1,W/B,4584.0
+2020-01-23,501,11:06:00,Thursday,Queensway and Parkside,Held By,8,15,E/B,4571.0
+2020-01-23,501,11:58:00,Thursday,Queen ad Yonge,Investigation,31,38,W/B,4581.0
+2020-01-23,505,14:12:00,Thursday,Dundas and Yonge,Investigation,6,12,E/B,8478.0
+2020-01-23,505,14:17:00,Thursday,Dundas and River,General Delay,14,20,B/W,3112.0
+2020-01-23,501,14:46:00,Thursday,Lakeshore/Longbranch Ave.,Investigation,103,113,W/B,4562.0
+2020-01-23,501,15:08:00,Thursday,Queen/Pape,Investigation,7,15,W/B,4447.0
+2020-01-23,512,15:12:00,Thursday,St. Clair and Bathurst,Investigation,11,16,W/B,4498.0
+2020-01-23,504,15:25:00,Thursday,Distillery loop,Mechanical,48,54,W/B,4486.0
+2020-01-23,510,15:51:00,Thursday,King and Spadina,General Delay,5,10,N/B,4522.0
+2020-01-23,501,16:09:00,Thursday,Lakeshore/Longbranch Loop,Mechanical,5,12,E/B,4448.0
+2020-01-23,505,16:23:00,Thursday,Dundas and Sorauren ave,Utilized Off Route,6,12,E/B,1080.0
+2020-01-23,506,16:23:00,Thursday,Dundas and Sorauren,Held By,17,25,W/B,4440.0
+2020-01-23,505,16:35:00,Thursday,Dundas west station,Utilized Off Route,6,12,E/B,1116.0
+2020-01-23,505,17:56:00,Thursday,Broadview Station,Investigation,6,12,W/B,1114.0
+2020-01-23,505,18:06:00,Thursday,Broadview Station,Mechanical,6,12,W/B,8500.0
+2020-01-23,506,19:05:00,Thursday,College and Yonge,Held By,39,47,E/B,4452.0
+2020-01-23,509,20:10:00,Thursday,Queen and Broadview,Mechanical,1,1,E/B,4510.0
+2020-01-23,501,20:14:00,Thursday,Queen/Gerrard,Mechanical,86,96,E/B,4558.0
+2020-01-23,511,21:34:00,Thursday,Bathurst Stn,Mechanical,8,16,S/B,4443.0
+2020-01-23,509,21:42:00,Thursday,Bathurst and Fleet,Held By,27,36,W/B,4502.0
+2020-01-23,505,22:48:00,Thursday,Broadview Stn,Mechanical,7,14,E/B,8554.0
+2020-01-23,501,23:11:00,Thursday,Russell Yard,Investigation,10,20,W/B,4589.0
+2020-01-24,505,00:12:00,Friday,DUNDAS WEST STN,Mechanical,7,14,W/B,1007.0
+2020-01-24,511,01:16:00,Friday,Bathurst and King,Investigation,29,38,N/B,4434.0
+2020-01-24,304,03:10:00,Friday,Broadview Station,Emergency Services,15,30,W/B,4506.0
+2020-01-24,304,05:33:00,Friday,Broadview and Queen,Mechanical,1,1,S/B,4431.0
+2020-01-24,506,07:00:00,Friday,Coxwell  Lower Gerrard,Overhead - Pantograph,1,1,N/B,4412.0
+2020-01-24,504,07:04:00,Friday,Roncesvalles Yard,Mechanical,23,28,N/B,4582.0
+2020-01-24,506,07:21:00,Friday,Coxwell Lower Gerrard,Overhead - Pantograph,1,1,N/B,4427.0
+2020-01-24,508,07:28:00,Friday,Queen and Roncesvalles,Utilized Off Route,1,1,W/B,8324.0
+2020-01-24,505,07:47:00,Friday,Broadview Station,Mechanical,4,7,W/B,8959.0
+2020-01-24,504,08:42:00,Friday,King and Dufferin,Mechanical,1,1,W/B,4457.0
+2020-01-24,504,08:54:00,Friday,King and Dufferin,Mechanical,1,1,W/B,4437.0
+2020-01-24,505,09:03:00,Friday,Dundas and yonge,General Delay,8,12,B/W,1265.0
+2020-01-24,504,12:56:00,Friday,King/Spadina,Investigation,28,35,W/B,4473.0
+2020-01-24,504,13:09:00,Friday,King/John,Investigation,26,33,E/B,4457.0
+2020-01-24,505,13:27:00,Friday,Dundas and spadina,Held By,39,43,B/W,1012.0
+2020-01-24,512,13:43:00,Friday,St Clair STN,Mechanical,1,1,E/B,4556.0
+2020-01-24,505,13:49:00,Friday,Broadview station,Utilized Off Route,6,12,W/B,8405.0
+2020-01-24,505,14:12:00,Friday,Dundas and Huron,General Delay,21,27,E/B,8469.0
+2020-01-24,503,14:43:00,Friday,king and york,Utilized Off Route,10,20,E/B,8571.0
+2020-01-24,505,15:12:00,Friday,Dundas west station,Emergency Services,1,1,W/B,3134.0
+2020-01-24,501,20:51:00,Friday,humber loop,Mechanical,7,15,E/B,4568.0
+2020-01-24,505,21:01:00,Friday,Dundas and bathurst,Mechanical,6,12,W/B,1012.0
+2020-01-24,501,21:27:00,Friday,QUEEN AND BROOKFIELD,Investigation,7,47,E/B,4548.0
+2020-01-24,511,22:07:00,Friday,Bathurst Station,Emergency Services,12,22,S/B,4543.0
+2020-01-24,512,22:40:00,Friday,St. Clair and Lansdown Loop,Emergency Services,8,16,E/B,4502.0
+2020-01-24,501,22:58:00,Friday,QUEENSWAY AND GLENDALE,Held By,10,20,E/B,4509.0
+2020-01-25,501,07:37:00,Saturday,Humber Loop,Investigation,9,19,W/B,4417.0
+2020-01-25,504,07:40:00,Saturday,Distilliary Loop,Investigation,20,30,W/B,4584.0
+2020-01-25,506,10:10:00,Saturday,Gerrard Golfview,Held By,13,21,W/B,4473.0
+2020-01-25,510,10:37:00,Saturday,Queens Quay,Mechanical,8,16,N/B,3141.0
+2020-01-25,509,11:31:00,Saturday,Mt Dennis Garage,Mechanical,8,16,W/B,
+2020-01-25,505,11:39:00,Saturday,Mt Dennis,Mechanical,8,16,W/B,3732.0
+2020-01-25,505,12:06:00,Saturday,Yonge and Dundas,Mechanical,8,16,W/B,8570.0
+2020-01-25,512,12:49:00,Saturday,St Clair West Oakwood,Overhead - Pantograph,6,12,E/B,4453.0
+2020-01-25,506,13:06:00,Saturday,Gerrard Marjory,Investigation,44,50,E/B,4487.0
+2020-01-25,185,13:22:00,Saturday,Dundas West Station,Mechanical,4,8,E/B,1529.0
+2020-01-25,504,14:13:00,Saturday,Entire Line,General Delay,1,1,B/W,
+2020-01-25,511,15:28:00,Saturday,CNE,Mechanical,6,12,S/B,4592.0
+2020-01-25,504,16:41:00,Saturday,King and Trinity,Held By,37,43,W/B,4525.0
+2020-01-25,504,16:41:00,Saturday,King and Trinity,Held By,37,43,E/B,
+2020-01-25,512,16:50:00,Saturday,St. Clair and Vaughan,Held By,8,16,B/W,4518.0
+2020-01-25,505,18:14:00,Saturday,Bay Street,General Delay,18,22,E/B,9205.0
+2020-01-25,512,18:25:00,Saturday,St. Clair and Bathurst,Held By,6,12,W/B,4596.0
+2020-01-25,506,21:38:00,Saturday,Gerrard and Logan,Held By,20,28,E/B,4557.0
+2020-01-25,506,21:42:00,Saturday,College and Bay,Investigation,8,16,W/B,4473.0
+2020-01-25,505,21:49:00,Saturday,DUNDAS WEST STN,Emergency Services,6,13,W/B,8493.0
+2020-01-25,511,22:05:00,Saturday,Bathurst and Fleet,Mechanical,9,18,S/B,4543.0
+2020-01-25,501,22:32:00,Saturday,HUMBER LOOP,Mechanical,5,6,E/B,4429.0
+2020-01-25,501,22:58:00,Saturday,QUEENSWAY AND GLENDALE,Held By,10,20,E/B,4509.0
+2020-01-26,505,00:20:00,Sunday,BROADVIEW STATION,Mechanical,11,20,W/B,1348.0
+2020-01-26,506,00:20:00,Sunday,Parkside and Howard Park,Emergency Services,28,38,W/B,4541.0
+2020-01-26,504,02:15:00,Sunday,King and Portland,Held By,20,35,B/W,4534.0
+2020-01-26,301,02:19:00,Sunday,NEVILLE LOOP,Mechanical,8,15,E/B,4568.0
+2020-01-26,301,03:15:00,Sunday,LONG BRANCH LOOP,Mechanical,5,10,E/B,4444.0
+2020-01-26,306,03:56:00,Sunday,MAIN STREET STATION,Mechanical,10,30,W/B,4497.0
+2020-01-26,306,03:56:00,Sunday,MAIN STREET STATION,Mechanical,5,20,W/B,4497.0
+2020-01-26,505,12:58:00,Sunday,Gladstone and Dundas,Mechanical,7,14,E/B,8526.0
+2020-01-26,501,14:46:00,Sunday,Queen and University,Mechanical,7,14,W/B,4540.0
+2020-01-26,501,14:48:00,Sunday,Queen and  Yonge,Mechanical,7,14,W/B,4542.0
+2020-01-26,505,15:29:00,Sunday,Sackville,Emergency Services,6,12,W/B,1004.0
+2020-01-26,505,15:34:00,Sunday,DWS,Mechanical,6,12,W/B,3732.0
+2020-01-26,512,15:56:00,Sunday,Gunns Loop,Mechanical,13,18,E/B,4556.0
+2020-01-26,504,16:15:00,Sunday,Roncy and Garden,Held By,6,14,N/B,4516.0
+2020-01-26,501,16:41:00,Sunday,Queen and Spadina,Investigation,7,14,W/B,4435.0
+2020-01-26,501,16:52:00,Sunday,Queen and University,Held By,10,17,W/B,4598.0
+2020-01-26,506,19:14:00,Sunday,Carlton and Yonge,Held By,8,16,W/B,4506.0
+2020-01-26,504,20:41:00,Sunday,DUNDAS WEST STATION,Emergency Services,10,17,E/B,4595.0
+2020-01-26,501,21:54:00,Sunday,Queen and Roncesvalles,Investigation,17,27,W/B,4563.0
+2020-01-27,301,01:05:00,Monday,Queensway and Glendale,Held By,117,127,E/B,4484.0
+2020-01-27,501,03:57:00,Monday,Russell Yard,Held By,10,20,E/B,4571.0
+2020-01-27,301,04:42:00,Monday,Queensway and King,Investigation,15,25,E/B,4563.0
+2020-01-27,304,05:00:00,Monday,Broadview and Queen,Mechanical,1,1,S/B,4586.0
+2020-01-27,504,05:18:00,Monday,Leslie and Commissioners,General Delay,1,1,N/B,4525.0
+2020-01-27,504,05:18:00,Monday,Leslie and Commissioners,General Delay,1,1,N/B,4474.0
+2020-01-27,504,06:52:00,Monday,Broadview and Queen,General Delay,5,10,N/B,4577.0
+2020-01-27,504,07:08:00,Monday,Broadview and Queen,General Delay,5,10,E/B,4600.0
+2020-01-27,508,07:22:00,Monday,Queen and Roncesvalles,Utilized Off Route,1,1,W/B,8162.0
+2020-01-27,506,07:30:00,Monday,College and Landsdowne,Late Leaving Garage,23,31,E/B,1590.0
+2020-01-27,505,09:02:00,Monday,Dundas West Station,General Delay,4,8,E/B,3107.0
+2020-01-27,504,09:20:00,Monday,King and Roncesvalles,Mechanical,6,12,E/B,4554.0
+2020-01-27,504,09:28:00,Monday,Broadview and Queen,Mechanical,1,1,S/B,4461.0
+2020-01-27,504,10:11:00,Monday,Broadview and Queen,Mechanical,1,1,S/B,4583.0
+2020-01-27,54,11:26:00,Monday,Queen and Broadview,Emergency Services,1,1,E/B,4495.0
+2020-01-27,504,11:56:00,Monday,King and Strachan,Mechanical,12,17,E/B,4600.0
+2020-01-27,505,13:35:00,Monday,Dundas and bathurst,Mechanical,5,10,W/B,1057.0
+2020-01-27,505,13:35:00,Monday,Dundas and Bathurst,General Delay,18,23,E/B,1205.0
+2020-01-27,501,14:02:00,Monday,Lakeshore/Parklawn,Investigation,10,20,W/B,4501.0
+2020-01-27,501,14:28:00,Monday,Lakeshore/Kipling,Investigation,29,39,B/W,4542.0
+2020-01-27,504,14:28:00,Monday,Leslie Barns,Late Leaving Garage,6,12,W/B,4418.0
+2020-01-27,503,14:47:00,Monday,King and york,Utilized Off Route,10,20,W/B,8951.0
+2020-01-27,512,14:51:00,Monday,St. Clair and Winona,Investigation,10,15,E/B,4531.0
+2020-01-27,504,15:11:00,Monday,Mill Street,Mechanical,1,1,W/B,4547.0
+2020-01-27,506,16:18:00,Monday,College and Bathurst,Investigation,1,2,E/B,4556.0
+2020-01-27,501,16:37:00,Monday,Neville Loop,Mechanical,6,13,W/B,4584.0
+2020-01-27,504,17:04:00,Monday,Shaw and King,Mechanical,1,1,W/B,4528.0
+2020-01-27,504,18:45:00,Monday,Grenadier,Mechanical,1,1,W/B,4576.0
+2020-01-27,501,18:50:00,Monday,Neville Loop,Mechanical,8,12,W/B,4548.0
+2020-01-27,511,21:23:00,Monday,Bathurst and Dundas,Investigation,20,29,S/B,4536.0
+2020-01-28,510,00:08:00,Tuesday,spadina and king,Held By,44,53,S/B,4488.0
+2020-01-28,504,05:34:00,Tuesday,Leslie and Queen,Mechanical,1,1,W/B,4434.0
+2020-01-28,506,06:25:00,Tuesday,Coxwell and Lower Gerrarrd,Mechanical,0,0,N/B,4436.0
+2020-01-28,504,07:03:00,Tuesday,Broadview Station,Mechanical,6,12,S/B,4523.0
+2020-01-28,506,07:38:00,Tuesday,College and Landsdowne,Mechanical,16,24,E/B,1146.0
+2020-01-28,512,07:49:00,Tuesday,St Clair & Lansdowne,Mechanical,4,8,E/B,4522.0
+2020-01-28,505,08:13:00,Tuesday,Mt Dennis  Garage,Late Leaving Garage,4,8,E/B,1116.0
+2020-01-28,505,08:44:00,Tuesday,Dundas West Station,General Delay,0,0,E/B,9202.0
+2020-01-28,512,08:52:00,Tuesday,St Clair & Lansdowne,Utilized Off Route,4,8,W/B,4446.0
+2020-01-28,504,09:26:00,Tuesday,King and Dufferin,Mechanical,1,1,E/B,4470.0
+2020-01-28,510,10:00:00,Tuesday,Spadina Stn,Mechanical,4,9,S/B,4558.0
+2020-01-28,504,10:15:00,Tuesday,Dundas West Station,Mechanical,1,1,S/B,4459.0
+2020-01-28,501,10:42:00,Tuesday,Queen and Sumach,Investigation,14,22,E/B,4490.0
+2020-01-28,505,11:35:00,Tuesday,Dundas / Victoria,Emergency Services,4,8,E/B,1072.0
+2020-01-28,512,13:36:00,Tuesday,Leslie Barns,Late Leaving Garage,6,12,W/B,4526.0
+2020-01-28,504,13:40:00,Tuesday,King and Yonge,Held By,20,28,E/B,4424.0
+2020-01-28,505,13:48:00,Tuesday,Dundas and Dufferin,General Delay,19,25,E/B,1131.0
+2020-01-28,505,14:10:00,Tuesday,Broadview station,Utilized Off Route,6,12,W/B,1141.0
+2020-01-28,504,15:35:00,Tuesday,King and Brant,Mechanical,1,1,E/B,4495.0
+2020-01-28,501,17:12:00,Tuesday,Neville Loop,Mechanical,7,14,W/B,4569.0
+2020-01-28,505,17:39:00,Tuesday,Dundas west station,Mechanical,6,12,E/B,1072.0
+2020-01-28,501,18:45:00,Tuesday,Queen/Roncesvalles,Mechanical,6,13,W/B,4447.0
+2020-01-28,504,20:54:00,Tuesday,Broadview and Langley,Investigation,11,19,N/B,4558.0
+2020-01-28,504,23:48:00,Tuesday,King and Peter,Held By,16,24,E/B,4560.0
+2020-01-29,510,00:49:00,Wednesday,Spadina Station,Mechanical,9,18,S/B,4596.0
+2020-01-29,505,07:47:00,Wednesday,Mt Dennis Garage,Late Leaving Garage,4,8,W/B,1105.0
+2020-01-29,505,08:20:00,Wednesday,Dundas / Brock,Mechanical,4,8,E/B,8489.0
+2020-01-29,501,08:33:00,Wednesday,Queensway and Roncy,Mechanical,7,0,E/B,7966.0
+2020-01-29,505,08:39:00,Wednesday,Dundas West Station,General Delay,0,0,r,1268.0
+2020-01-29,506,08:53:00,Wednesday,College and Bay,Mechanical,7,15,E/B,4571.0
+2020-01-29,501,12:12:00,Wednesday,Queen and Ossington,Mechanical,23,30,W/B,4584.0
+2020-01-29,504,12:22:00,Wednesday,King and Close Ave,Investigation,47,54,E/B,4475.0
+2020-01-29,505,14:56:00,Wednesday,Dufferin and Dundas,Investigation,4,8,E/B,8500.0
+2020-01-29,504,15:13:00,Wednesday,Roncesvalles yard,Mechanical,1,1,N/B,4417.0
+2020-01-29,504,15:24:00,Wednesday,Dundas West Station,Mechanical,6,12,N/B,4417.0
+2020-01-29,505,15:45:00,Wednesday,Danforth and Donlands,Mechanical,3,7,W/B,9201.0
+2020-01-29,504,15:49:00,Wednesday,Marion and Roncesvalles,Mechanical,6,12,S/B,4417.0
+2020-01-29,505,16:04:00,Wednesday,Dufferin and Dundas,Mechanical,4,7,E/B,1085.0
+2020-01-29,511,16:35:00,Wednesday,Bathurst and Robinson,Investigation,8,16,S/B,4494.0
+2020-01-29,512,17:29:00,Wednesday,St. Clair and Bathurst,Investigation,6,10,E/B,4477.0
+2020-01-29,512,17:58:00,Wednesday,Sty. Clair and Winona,Investigation,5,9,E/B,4597.0
+2020-01-29,505,18:01:00,Wednesday,Entire Line,General Delay,1,1,btw,
+2020-01-29,505,18:35:00,Wednesday,Broadview Stn,Utilized Off Route,3,7,W/B,1127.0
+2020-01-29,506,22:00:00,Wednesday,College and St. George,Mechanical,1,1,W/B,4504.0
+2020-01-29,506,23:29:00,Wednesday,College and Bay,Held By,7,16,E/B,4569.0
+2020-01-29,511,23:38:00,Wednesday,Bathurst Station,Mechanical,9,18,S/B,4453.0
+2020-01-30,512,01:40:00,Thursday,St Clair and Tweedsmuir,Mechanical,36,43,W/B,4573.0
+2020-01-30,512,05:20:00,Thursday,St. Clair West Station,Held By,6,17,E/B,4577.0
+2020-01-30,306,05:27:00,Thursday,Coxwell and Gerrard,Mechanical,0,0,S/B,4421.0
+2020-01-30,512,06:15:00,Thursday,St. Clair Station,Held By,12,18,E/B,4596.0
+2020-01-30,504,06:56:00,Thursday,King and Dufferin,Mechanical,1,1,W/B,4439.0
+2020-01-30,506,07:50:00,Thursday,Main Station,Late Leaving Garage,5,13,W/B,8575.0
+2020-01-30,504,08:09:00,Thursday,King and Jarvis,Investigation,29,34,W/B,4589.0
+2020-01-30,504,08:09:00,Thursday,King and Jarvis Street,Investigation,29,34,W/B,4589.0
+2020-01-30,505,08:10:00,Thursday,Mt Dennis Garage,Late Leaving Garage,4,8,W/B,1040.0
+2020-01-30,504,08:56:00,Thursday,King and Parliament,Mechanical,1,1,W/B,4554.0
+2020-01-30,508,09:23:00,Thursday,College and Crawford,Investigation,0,0,W/B,8346.0
+2020-01-30,501,09:49:00,Thursday,Sunnyside loop,Held By,33,38,W/B,8786.0
+2020-01-30,505,11:54:00,Thursday,Dundas West Station,General Delay,4,0,B/W,1141.0
+2020-01-30,504,12:19:00,Thursday,Dufferin Loop,Mechanical,1,1,E/B,4571.0
+2020-01-30,510,14:39:00,Thursday,Spadina and Queen,Mechanical,1,1,S/B,4412.0
+2020-01-30,511,15:03:00,Thursday,Bathurst and Queen,Held By,6,13,N/B,4419.0
+2020-01-30,505,16:37:00,Thursday,Entire Route,General Delay,1,1,B/W,
+2020-01-30,505,19:26:00,Thursday,Dundas and University,Mechanical,3,7,W/B,8552.0
+2020-01-30,505,20:15:00,Thursday,Broadview Stn,Emergency Services,4,9,W/B,8536.0
+2020-01-31,509,00:52:00,Friday,Fleet Loop,Emergency Services,9,18,E/B,4552.0
+2020-01-31,504,02:48:00,Friday,Roncesvalles and Dundas,Investigation,36,51,S/B,4514.0
+2020-01-31,504,06:09:00,Friday,King and Sumach,Mechanical,1,1,W/B,4465.0
+2020-01-31,508,07:02:00,Friday,Roncesvalles and Queen,Late Leaving Garage,4,24,W/B,4425.0
+2020-01-31,505,07:33:00,Friday,Mt Dennis Garage,Late Leaving Garage,4,8,W/B,1590.0
+2020-01-31,501,08:46:00,Friday,Kipling / Lakeshore,Investigation,37,44,E/B,4554.0
+2020-01-31,504,09:25:00,Friday,King and Dufferin,Mechanical,1,1,W/B,4413.0
+2020-01-31,505,10:32:00,Friday,Dundas West Station,General Delay,6,6,B/W,8402.0
+2020-01-31,504,10:42:00,Friday,King and Younge Street,Investigation,8,16,E/B,4595.0
+2020-01-31,503,10:44:00,Friday,King / Jordan,Investigation,10,20,W/B,8953.0
+2020-01-31,506,11:53:00,Friday,College  Crawford,Mechanical,150,158,W/B,4419.0
+2020-01-31,505,12:02:00,Friday,Dundas / Bathurst,Utilized Off Route,0,0,E/B,8409.0
+2020-01-31,501,13:07:00,Friday,Queen/Carlaw,Investigation,7,15,E/B,7518.0
+2020-01-31,506,13:33:00,Friday,College Crawford,Mechanical,1,1,W/B,4526.0
+2020-01-31,501,13:53:00,Friday,Humber Loop,Mechanical,10,20,W/B,4434.0
+2020-01-31,505,15:12:00,Friday,Entire Route,General Delay,1,1,B/W,
+2020-01-31,512,16:14:00,Friday,St.clair west station,Emergency Services,7,11,B/W,4499.0
+2020-01-31,512,17:15:00,Friday,St.clair station,Mechanical,1,1,W/B,4521.0
+2020-01-31,501,17:57:00,Friday,Queen/Yonge,Mechanical,8,16,W/B,4584.0
+2020-01-31,501,18:00:00,Friday,Queen/Sumach,Investigation,13,20,E/B,4548.0
+2020-01-31,501,18:23:00,Friday,Broadview/Queen,Held By,7,14,E/B,4520.0
+2020-01-31,509,19:26:00,Friday,Fleet loop,Mechanical,1,1,E/B,4529.0
+2020-01-31,510,19:31:00,Friday,Charlotte loop,Investigation,4,8,S/B,4522.0
+2020-01-31,506,20:13:00,Friday,College and University,Investigation,86,94,W/B,4531.0
+2020-01-31,506,20:18:00,Friday,Gerrard and Greenwood,Investigation,5,13,E/B,4594.0
+2020-01-31,512,20:38:00,Friday,Bathurst and St. Clair,Mechanical,7,14,W/B,4534.0
+2020-01-31,506,23:32:00,Friday,College and Dufferin,Held By,8,16,W/B,4481.0
+2020-01-31,501,23:59:00,Friday,humber loop,Emergency Services,1,1,E/B,4568.0
