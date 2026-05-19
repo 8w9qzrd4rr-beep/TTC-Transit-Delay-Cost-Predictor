@@ -55,7 +55,7 @@ download_weather.py handles all Environment Canada API calls separately. The mod
 ## Quick Start
 
 ```bash
-git clone https://github.com/8w9qzrd4rr-beep TTC-Transit-Delay-Cost-Predictor.git
+git clone https://github.com/8w9qzrd4rr-beep/TTC-Transit-Delay-Cost-Predictor.git
 cd ttc-delay-predictor
 pip install -r requirements.txt
 python download_weather.py
