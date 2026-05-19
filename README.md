@@ -52,35 +52,10 @@ download_weather.py handles all Environment Canada API calls separately. The mod
 4. Hour of day  time-of-day operational patterns
 5. Weather (Humidity, WindChill, Temp)  most impactful for streetcar
 
-## Project Structure
-ttc-delay-predictor/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── download_weather.py
-├── clean_bus.py
-├── clean_streetcar.py
-├── clean_subway.py
-├── model.py
-│
-├── notebooks/
-│   ├── 01_bus_cleaning.ipynb
-│   ├── 02_subway_cleaning.ipynb
-│   ├── 03_streetcar_cleaning.ipynb
-│   └── 04_ttc_delay_predictor.ipynb
-│
-└── data/
-├── clean_bus.csv
-├── clean_sub.csv
-├── clean_streetcar.csv
-└── weather_2023_2025.csv
-
-
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-username/ttc-delay-predictor.git
+git clone https://github.com/8w9qzrd4rr-beep TTC-Transit-Delay-Cost-Predictor.git
 cd ttc-delay-predictor
 pip install -r requirements.txt
 python download_weather.py
