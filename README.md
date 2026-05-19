@@ -4,7 +4,7 @@ Predicts delay duration and estimates the economic cost of Toronto Transit Commi
 
 ## The Problem
 
-TTC operates over 200 bus routes, 4 subway lines, and 10 streetcar routes across Toronto. Every delay has a cost — to riders, to operators, and to the city. The TTC publishes raw delay logs but no tool exists to translate those logs into dollar figures by route, incident type, or time of day.
+TTC operates over 200 bus routes, 4 subway lines, and 10 streetcar routes across Toronto. Every delay has a cost to riders, to operators, and to the city. The TTC publishes raw delay logs but no tool exists to translate those logs into dollar figures by route, incident type, or time of day.
 
 This project builds that tool.
 
