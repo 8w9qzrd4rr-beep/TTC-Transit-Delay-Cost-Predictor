@@ -20,7 +20,7 @@ Ingests 6 years of TTC delay records (2020–2025) across all three transit mode
 | Subway | 2.47 min | 9.27 min | $8.27 CAD | $217,606 CAD |
 | Streetcar | 12.97 min | 34.07 min | $33.10 CAD | $464,727 CAD |
 
-The model achieves R² of ~0.27 for bus, consistent with published transit delay prediction research (typical range: 0.15–0.35 without real-time AVL data). Transit delays have high inherent randomness — a signal failure and a passenger medical emergency can produce identical feature vectors but vastly different outcomes. The model is designed for aggregate cost forecasting, not individual incident prediction.
+The model achieves R² of ~0.27 for bus, consistent with published transit delay prediction research (typical range: 0.15–0.35 without real-time AVL data). Transit delays have high inherent randomness  a signal failure and a passenger medical emergency can produce identical feature vectors but vastly different outcomes. The model is designed for aggregate cost forecasting, not individual incident prediction.
 
 An initial run produced R² of 0.95, which was caught and removed as data leakage (see Key Technical Decisions).
 
@@ -46,10 +46,10 @@ download_weather.py handles all Environment Canada API calls separately. The mod
 
 ## Top Predictive Features
 
-1. Incident type — strongest predictor (0.50–0.60 importance for bus/subway)
-2. RouteAvgDelay / RouteDelayStd — historical route risk profile
-3. VehiclePrevDelay — vehicle wear signal (previous delay for same vehicle)
-4. Hour of day — time-of-day operational patterns
-5. Weather (Humidity, WindChill, Temp) — most impactful for streetcar
+1. Incident type  strongest predictor (0.50–0.60 importance for bus/subway)
+2. RouteAvgDelay / RouteDelayStd  historical route risk profile
+3. VehiclePrevDelay  vehicle wear signal (previous delay for same vehicle)
+4. Hour of day  time-of-day operational patterns
+5. Weather (Humidity, WindChill, Temp)  most impactful for streetcar
 
 ## Project Structure
