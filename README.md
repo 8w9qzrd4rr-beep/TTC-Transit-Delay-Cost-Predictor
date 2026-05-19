@@ -53,3 +53,51 @@ download_weather.py handles all Environment Canada API calls separately. The mod
 5. Weather (Humidity, WindChill, Temp)  most impactful for streetcar
 
 ## Project Structure
+ttc-delay-predictor/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── download_weather.py
+├── clean_bus.py
+├── clean_streetcar.py
+├── clean_subway.py
+├── model.py
+│
+├── notebooks/
+│   ├── 01_bus_cleaning.ipynb
+│   ├── 02_subway_cleaning.ipynb
+│   ├── 03_streetcar_cleaning.ipynb
+│   └── 04_ttc_delay_predictor.ipynb
+│
+└── data/
+├── clean_bus.csv
+├── clean_sub.csv
+├── clean_streetcar.csv
+└── weather_2023_2025.csv
+
+
+## Quick Start
+
+```bash
+git clone https://github.com/your-username/ttc-delay-predictor.git
+cd ttc-delay-predictor
+pip install -r requirements.txt
+python download_weather.py
+jupyter notebook 04_ttc_delay_predictor.ipynb
+```
+
+## Data Sources
+
+| Dataset | Source |
+|---------|--------|
+| TTC Bus Delay Data | [Toronto Open Data](https://open.toronto.ca/dataset/ttc-bus-delay-data/) |
+| TTC Subway Delay Data | [Toronto Open Data](https://open.toronto.ca/dataset/ttc-subway-delay-data/) |
+| TTC Streetcar Delay Data | [Toronto Open Data](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/) |
+| Hourly Weather | Environment Canada, Toronto City Centre Station (ID: 51459) |
+
+Raw TTC files are not committed to this repo due to size. Pre-cleaned CSVs are provided in data/.
+
+## Tech Stack
+
+Python · pandas · NumPy · scikit-learn · requests · Jupyter
